@@ -33,5 +33,10 @@ public class KaryawanAksi {
         Ebay.Jabatan="Staff";
         Ebay.LamaBekerja="1 Tahun";
         Ebay.Gaji=" Rp.35.000.000";
+        
+        Endra.cetakinfo();
+        Awang.cetakinfo();
+        Iqbal.cetakinfo();
+        Ebay.cetakinfo();
     }
 }
